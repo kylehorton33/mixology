@@ -16,7 +16,7 @@ An app to find the perfect cocktail.
 
 ## TODOs
 
-- :white_square_button: create svelte app
+- :white_check_mark: create svelte app
 - :white_square_button: create static routes for each view
 - :white_square_button: create static "drinks" object and update routes to display dynamically
 - :white_square_button: create DB with similar data
