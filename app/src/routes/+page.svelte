@@ -3,7 +3,7 @@
     <input type="text" placeholder="Search for drink" />
     <br />
     <ul>
-      <li>Drink 1: Lorem ipsum dolor sit amet...</li>
+      <li>Drink 1: Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, fuga.</li>
       <li>Drink 2: Lorem ipsum dolor sit amet...</li>
       <li>Drink 3: Lorem ipsum dolor sit amet...</li>
     </ul>
@@ -18,6 +18,7 @@
   body {
     display: flex;
     height: 100vh;
+    max-width: 100%;
     flex-direction: column;
     margin: auto;
   }
