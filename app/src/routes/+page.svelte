@@ -10,7 +10,7 @@
   </main>
 
   <footer>
-    <a href="/">Add a new drink</a>
+    <a href="/new">Add a new drink</a>
   </footer>
 </body>
 
